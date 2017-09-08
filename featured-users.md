@@ -80,5 +80,5 @@ Here is our expose of the state of the health commons
 
 More to come..
 
-Please suggest more ideas on our github issues or gitter room
+Please suggest more ideas on our github issues or gitter room....
 
