@@ -51,6 +51,7 @@ Here is our expose of the state of the health commons
 ### TO-DO
 
 ### Workflow Frameworks
+
 {: .table.table-responsive}
 | Website | Who | What |
 | :------ |:--- | :--- |
@@ -59,6 +60,7 @@ Here is our expose of the state of the health commons
 | [derekogle.com](http://derekogle.com/) | Derek Ogle | Professor of Mathematical Sciences and Natural Resources |
 
 ### Decision Support/Rules Engine Frameworks
+
 {: .table.table-responsive}
 | Website | Who | What |
 | :------ |:--- | :--- |
@@ -68,6 +70,7 @@ Here is our expose of the state of the health commons
 
 
 ### Business/Clinical Intelligence Frameworks
+
 {: .table.table-responsive}
 | Website | Who | What |
 | :------ |:--- | :--- |
