@@ -78,3 +78,7 @@ Here is our expose of the state of the health commons
 | [ouzor.github.io](http://ouzor.github.io) | Juuso Parkkinen | Data scientist |
 | [derekogle.com](http://derekogle.com/) | Derek Ogle | Professor of Mathematical Sciences and Natural Resources |
 
+More to come..
+
+Please suggest more ideas on our github issues or gitter room
+
